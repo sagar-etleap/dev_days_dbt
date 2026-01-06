@@ -1,1 +1,1 @@
-SELECT 1 as ok 
+SELECT does_not_exist 
