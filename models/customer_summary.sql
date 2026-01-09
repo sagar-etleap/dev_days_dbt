@@ -1,1 +1,1 @@
-SELECT null as ok 
+SELECT 1 as ok 
